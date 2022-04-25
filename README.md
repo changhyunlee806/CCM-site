@@ -81,14 +81,11 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
   - Homework 3 assigned (Due 4/4) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Mar 28: Bayesian modeling (part 2)([video](https://vimeo.com/686035353))(same slides as part 1)
 - Mon. Apr 4: Model comparison and fitting, tricks of the trade([video](https://vimeo.com/693685336))([slides](slides/lecture-09-modelfit.pdf))
-- Mon. Apr 11: Categorization
-<!-- ([video](https://vimeo.com/693682566))([slides](slides/lecture-10-categorization.pdf)) -->
+- Mon. Apr 11: Categorization ([video](https://vimeo.com/693682566))([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
   - Homework 4 assigned (Due 4/25) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Apr 18: Probabilistic Graphical models
-<!-- ([video](/533696470))([slides](slides/lecture-11-pgm.pdf)) -->
-- Mon. Apr 25: Information sampling and active learning
-<!-- ([video](/540688563))([slides](slides/lecture-12-activelearning.pdf)) -->
+- Mon. Apr 18: Probabilistic Graphical models ([video](https://vimeo.com/698726807))([slides](slides/lecture-11-graphical_models.pdf))
+- Mon. Apr 25: Information sampling and active learning ([video](https://vimeo.com/701788628))([slides](slides/lecture-12-activelearning.pdf))
 - Mon May 2: Program induction and language of thought models
 <!-- [video](/542194879))([slides](slides/lecture-13-program_induction.pdf)) -->
 - Mon May 9: Computational Cognitive Neuroscience
@@ -109,12 +106,12 @@ Tuesdays 1:30-2:20 PM (in person or zoom)
 - Tues Mar 15, No lab, spring reak 
 - Tue Mar 22, Probability Review
 - Tue Mar 29, HW 3 Review
-- Tue Apr 5, TBD
-- Tue Apr 12, TBD
+- Tue Apr 5, No lab
+- Tue Apr 12, No lab
 - Tue Apr 19, HW 4 Review
-- Tue Apr 26, TBD
-- Tue May 3, TBD
-- Tue May 10, TBD
+- Tue Apr 26, No lab
+- Tue May 3, No lab
+- Tue May 10, No lab
 
 
 ## Readings
